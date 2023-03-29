@@ -43,7 +43,7 @@
 
 ### Результаты:  
 В результате работы получен [ноутбук](https://github.com/alzmej/sf_data_science/blob/main/Project_1/Project-1.ipynb) в котором реализованы основные этапы работы с данными на примере данных резюме.
-Интерактивная диаграмма рассеяния, показывающую зависимость опыта работы от возраста доступна по [ссылке](https://github.com/alzmej/sf_data_science/blob/main/Project_1/data/scatter.html). 
+Интерактивная диаграмма рассеяния, показывающую зависимость опыта работы от возраста доступна в директории [data](https://github.com/alzmej/sf_data_science/blob/main/Project_1/data). 
 
 :arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/Project_1/README.md#Оглавление)
 
