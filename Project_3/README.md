@@ -1,15 +1,15 @@
 # Проект 1. Исследование данный HR-агенства
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Какой-кейс-решаем)  
-[3. Результат](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Результат)    
-[4. Выводы](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Какой-кейс-решаем)  
+[3. Результат](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Результат)    
+[4. Выводы](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Выводы) 
 
 ### Описание проекта    
 Анализ базы вакансий, выгруженной с сайта [kaggle.com](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
-:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -52,19 +52,19 @@ HR-агентство изучает тренды на рынке труда в 
         M — от 50 до 250 сотрудников (средняя компания);
         L — более 250 сотрудников (крупная компания).
 
-:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Оглавление)
 
 
 ### Результаты:  
 В результате работы получен ноутбук в котором реализованы основные этапы анализа вакансий.
 
-:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Оглавление)
 
 
 ### Выводы:  
 Задание успешно выполнено и опубликовано в репозитории.
 
-:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alzmej/sf_data_science/tree/main/Project_3/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
